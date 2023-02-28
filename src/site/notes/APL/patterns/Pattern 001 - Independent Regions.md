@@ -17,12 +17,12 @@ Starts on Page 10
 
 There are four separate arguments which have led us to this conclusion:
 
-1. 'The nature and limits of human government.
+1. The nature and limits of human government.
 2. Equity among regions in a world community. 
 3. Regional planning considerations. 
 4. Support for the intensity and diversity of human cultures.
 
-5. There are natural limits to the size of groups that can govern themselves in a human way. The biologist [J. B. S. Haldane](https://en.wikipedia.org/wiki/J._B._S._Haldane) has remarked on this in his paper, "[On Being the Right Size](https://web.archive.org/web/20110822151104/http://irl.cs.ucla.edu/papers/right-size.html) ([Wikipedia Entry](https://web.archive.org/web/20110822151104/http://irl.cs.ucla.edu/papers/right-size.html)) :
+1. There are natural limits to the size of groups that can govern themselves in a human way. The biologist [J. B. S. Haldane](https://en.wikipedia.org/wiki/J._B._S._Haldane) has remarked on this in his paper, "[On Being the Right Size](https://web.archive.org/web/20110822151104/http://irl.cs.ucla.edu/papers/right-size.html) ([Wikipedia Entry](https://web.archive.org/web/20110822151104/http://irl.cs.ucla.edu/papers/right-size.html)) :
 
 >  ... just as there is a best size for every animal, so the same is true for every human institution. In the Greek type of democracy all the citizens could listen to a series of orators and vote directly on questions of legislation. Hence their philosophers held that a small city was the largest possible democratic state. ... 
 
