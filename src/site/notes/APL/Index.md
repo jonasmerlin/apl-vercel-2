@@ -7,6 +7,9 @@ These are my notes on [[APL/A Pattern Language\|A Pattern Language]].
 
 Reading group reading order: https://docs.google.com/spreadsheets/d/1uGCSp5DHEQWilK9tNRYtjJvBaa40VUbb53OWfiuRQuo/edit#gid=0
 
+The book: [A Pattern Language: Towns, Buildings, Construction - Christopher Alexander, Sara Ishikawa, Murray Silverstein — Are.na](https://www.are.na/block/11274676)
+
+
 # General Links
 
 - [APL - Home](http://www.iwritewordsgood.com/apl/set.htm)
