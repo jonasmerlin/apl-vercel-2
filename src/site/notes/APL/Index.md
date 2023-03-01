@@ -5,6 +5,8 @@
 
 These are my notes on [[APL/A Pattern Language\|A Pattern Language]].
 
+Reading group reading order: https://docs.google.com/spreadsheets/d/1uGCSp5DHEQWilK9tNRYtjJvBaa40VUbb53OWfiuRQuo/edit#gid=0
+
 # General Links
 
 - [APL - Home](http://www.iwritewordsgood.com/apl/set.htm)
