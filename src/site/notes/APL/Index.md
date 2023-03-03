@@ -28,4 +28,8 @@ The book: [A Pattern Language: Towns, Buildings, Construction - Christopher Alex
 		- https://monoskop.org/images/5/58/Franklin_Ursula_The_Real_World_of_Technology_1990.pdf
 - [Nature, life, and self: Christopher Alexander after a pattern language - YouTube](https://www.youtube.com/watch?v=xmlo0Lva5AU)
 	- "Christopher Alexander on his disappointment with A Pattern Language, how the “Mirror of the Self“ shifted his ability to get people to see life, and the basis for The Nature of Order."
-- 
+- https://www.dropbox.com/s/9t2rbhgc251d7b5/00-steenson-proofs-architectural%20intelligence.pdf?dl=0
+	- #book 
+	- "I think this link works for my book Architectural Intelligence: How Designers & Architects Created the Digital Landscape."
+	- "The book is about much more than Alexander — and my research into the history of AI started with a footnote by Alexander in Notes on the Synthesis on Form (chapter 1, #19)"
+	- "For me, I realized that Alexander & co viewed pattern languages as a network—not only a sequence. I saw it as an operating system for order, which was Alexander’s lifelong interest."
