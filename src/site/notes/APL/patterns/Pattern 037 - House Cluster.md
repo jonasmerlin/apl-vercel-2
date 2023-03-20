@@ -3,7 +3,7 @@
 ---
 
 
-Discussed in: [[APL/sessions/Session 002 - 2023-03-05\|Session 002 - 2023-03-05]]
+Discussed in: [[APL/sessions/Session 003 - 2023-03-13\|Session 003 - 2023-03-13]]
 Part of: [[Towns\|Towns]]
 Confidence: [[Two Asterisks\|Two Asterisks]]
 
